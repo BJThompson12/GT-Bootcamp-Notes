@@ -37,6 +37,10 @@ What command can you use to list the contents of a directory? How can you use th
 If you have completed this activity, work through the following challenge with your partner to further your knowledge:
 
 * What are the `git fetch` and `git merge` commands? 
+git Fetch - is the command that tells the local repository that there are changes available in the remote repository without bringing the changes into the local repository.
+git-merge - Join two or more development histories together
+[Google](https://www.google.com)
+
 
 Use [Google](https://www.google.com) or another search engine to research this.
 
