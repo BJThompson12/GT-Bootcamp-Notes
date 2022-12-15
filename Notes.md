@@ -11,3 +11,7 @@ Attributes - contain extra information about the element that wont show in the c
  * What are the `git fetch` and `git merge` commands? 
 Git Fetch - is the command that tells the local repository that there are changes available in the remote repository without bringing the changes into the local repository.
 git-merge - Join two or more development histories together
+Class can ne used to select and style 1 or more elements 
+ID for the single styling of one element
+. precedes any class in CSS styl sheet
+# will precede any ID in CDD style sheet
