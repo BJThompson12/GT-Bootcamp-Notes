@@ -2,13 +2,13 @@
 
 Work with a partner to resolve the following issues:
 
-* Users should be able to see a horizontal navigation bar with three list items side-by-side.
+* Users should be able to see a horizontal navigation bar with three list items side-by-side. CHECK
 
-* Users should be able to see three boxes.
+* Users should be able to see three boxes. CHECK
 
-* Users should be able to see the boxes centered and stacked on top of each other.
+* Users should be able to see the boxes centered and stacked on top of each other. Check
 
-## Expected Behavior
+## Expected Behavior 
 
 * All three list items in the navigation bar should display inline.
 
