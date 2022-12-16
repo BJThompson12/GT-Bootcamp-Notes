@@ -9,7 +9,7 @@ body {
   position: relative;
   font-family: "Goudy Bookletter 1911", sans-serif;
   font-size: 20px;
-  background-color: #FDF8F5;
+  background-color: #ffffff;
   color: #4F4846;
 }
 
@@ -18,7 +18,7 @@ h2 {
   margin: 20px;
 }
 
-main {
+div {
   padding: 60px 0;
 }
 
@@ -38,19 +38,19 @@ footer {
   height: 60px;
   width: 100%;
   line-height: 60px;
-  background-color: #266150;
+  background-color: #14213d;
 }
 
 header {
   position: fixed;
-  border-bottom: 10px solid #DDAF94;
+  border-bottom: 5px solid #fca311;
 }
 
 footer {
   position: absolute;
   margin-top: 0;
   bottom: 0;
-  border-bottom: 10px solid #4F4846;
+  border-bottom:10px solid #4F4846;
   color: #FDF8F5;    
 }
 
@@ -66,8 +66,8 @@ img {
 section {
   margin-bottom: 0;
   padding: 20px 10px 40px 10px;
-  border-top: 3px solid #DDAF94;
-  background-color:  #E8CEBF;
+  border-top: 5px solid #fca311;
+  background-color:  #e5e5e5;
 }
 
 form {
@@ -75,7 +75,7 @@ form {
   margin: 0 auto;
   width: 500px;
   padding: 10px;
-  border: 5px solid #DDAF94;
+  border: 5px solid #fca311;
   border-radius: 20px;
 }
 
@@ -99,7 +99,7 @@ textarea {
 button {
   height: 40px;
   width: 120px;
-  background-color: #4F4846;
+  background-color: #14213d;
   color: #FDF8F5;
 }
  
