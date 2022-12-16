@@ -21,3 +21,5 @@ CSS Positioning
 3. absolute: Removes from the flow and positions absolute wrt to the parent. Parent has to be relative or absolute for top, right, bottom, left to work. Else it considers the main html element as the  parent .
 4. fixed : Fixed to a place. Doesn't give two shits about the parent. Always considers html element as the parent. Stays there when scrolled.
 5. sticky : Relative ( when normal) + fixed ( when scrolled). The values for top, right, bottom, left become active when scrolled
+git init - initialize a repository on your local maching - must be in the folder you want the repo in
+Display property says whether an element is an inlin eor a block element
