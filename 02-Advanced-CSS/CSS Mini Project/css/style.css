@@ -1,0 +1,24 @@
+:root {
+
+}
+
+body * {
+  border: solid 1px red;
+}
+
+header,
+footer {
+    padding: 30px;
+    text-align: center;
+}
+
+.header,
+.footer {
+    padding: 10px;
+    font-size: 30px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction
+}
