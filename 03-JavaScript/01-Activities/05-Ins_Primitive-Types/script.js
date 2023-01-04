@@ -35,3 +35,4 @@ console.log(typeof myVariable);
 // myVariable is reassigned; Logs boolean
 myVariable = false;
 console.log(typeof myVariable);
+
