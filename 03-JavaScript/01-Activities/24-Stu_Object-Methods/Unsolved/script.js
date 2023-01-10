@@ -10,8 +10,8 @@ var shelter = {
 
 //Debug the code below 
 function dogMessage() {
-   console.log("Congrats! " + chosenPet.Lulu + ", a great dog, is available for adoption!");
-   apptMessage();
+   console.log("Congrats! " + chosenPet + ", a great dog, is available for adoption!");
+   shelter.apptMessage();
 }
 
 function catMessage() {
